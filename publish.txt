@@ -10,10 +10,6 @@ docker tag cd130c5800d9  runner-java:1.0
 
 # login docker
 
-docker login
-< aqwest
-< Fri00101
-
 # push image
 
 docker push aqwest/runner-java
